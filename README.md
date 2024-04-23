@@ -26,6 +26,10 @@ Welcome to Trend Stake, a platform where you can stake your favorite project tok
 
 To get started with Trend Stake, simply visit [TrendStake.com](https://www.trendstake.com) and create an account.
 
+## Socials
+Telegram - https://t.me/trendstake
+Twitter - https://twitter.com/trendstake
+
 ## License
 
 Copyright © 2023 Trendstake.com | Powered by Trendstake.com
